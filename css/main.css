@@ -1,0 +1,19 @@
+.caja1{
+
+	width: 200px;	
+	text-align: center;
+	padding: 40px;
+	border-color: yellow;
+	border-style: solid;
+	border-width: 15px;		
+}
+
+.caja2{
+	width: 200px;		
+	padding: 40px;
+	border-color: yellow;
+	border-style: solid;
+	border-width: 15px;	
+	margin-left: 500px;
+}
+
